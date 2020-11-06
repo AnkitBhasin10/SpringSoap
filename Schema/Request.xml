@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:GetCourseDetailRequest
+	xmlns:tns="http://demosoap.com/courses"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://demosoap.com/courses CourseDetails.xsd ">
+	<id>123</id>
+</tns:GetCourseDetailRequest>
